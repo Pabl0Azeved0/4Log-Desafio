@@ -1,8 +1,8 @@
 # Desafio 4-Log Estágio
 
-Olá, este foi um desafio da 4Log para uma vaga de estágio e sua execução é bem simples, ao final deste texto haverá um arquivo em .zip, este arquivo deverá ser baixado para que possa acessar suas funcionalidades.
+Olá, este foi um desafio da 4Log para uma vaga de estágio e sua execução é bem simples, logo acima do Readme.md antes deste texto existe um arquivo chamado "4LogEstágio-Pablo.zip", este arquivo deverá ser baixado para que possa acessar suas funcionalidades.
 
-Dentro da pasta compactada haverá uma pasta chamada "4Log Estágio-Pablo", extraia esta pasta para qualquer área do seu computador que preferir, recomendo a área de trabalho, uma vez descompactada você irá acessar diretamente a pasta "4Log Estágio-Pablo", dentro dela haverá as pastas "lib" e "static" onde as configurações foram feitas e algumas pastas mais abaixo mas o importante aqui é executar o arquivo "index.html", abra-o no seu navegador e é isto, bem simples, não?
+Dentro da pasta compactada haverá uma pasta chamada "4Log Estágio-Pablo", extraia esta pasta para qualquer área do seu computador que preferir, recomendo a área de trabalho, uma vez descompactada você irá acessar diretamente a pasta "4Log Estágio-Pablo", dentro dela haverá as pastas "lib" e "static" onde as configurações foram feitas e algumas pastas mais adentro mas o importante aqui é executar o arquivo "index.html", abra-o no seu navegador e é isto, bem simples, não?
 
 Nesta página qual abriu em seu navegador haverá instruções e um mapa, você poderá selecionar qualquer país pela tabela ou clicando diretamente no próprio mapa, note que a cor irá alterar, caso não goste dela é uma cor padrão que pode ser modificada no menu "Parâmetros" logo no final da página na direita, também existe função de zoom no mapa para melhor visualização.
 
@@ -21,4 +21,4 @@ Atendi todos os requisitos? Na raíz da palavra, não. Mas tomei uma decisão im
 
 Inclui funcionalidades que deixam o cliente livre quanto a cor do mapa e dos países assim como também a opção de salvar sua busca em formatos de JPG, PNG, SVG ou PDF, creio que com isto tenha suprido as necessidades do cliente e possivelmente suprido uma futura necessidade do mesmo.
 
-Segue abaixo o link do meu arquivo, espero que esteja tudo de acordo e bem explicado.
+Espero que esteja tudo de acordo e bem explicado.
