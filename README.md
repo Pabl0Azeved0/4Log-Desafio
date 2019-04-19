@@ -8,12 +8,12 @@ Nesta página qual abriu em seu navegador haverá instruções e um mapa, você 
 
 ## Requerimentos do desafio
 
-1- Preciso conseguir inserir o nome de um país onde está minha encomenda em um campo<br>
-2- O país que eu inseri seja marcado em um mapa.
-3- Conseguir inserir múltiplas cargas.
-4- Conseguir marcar a posição de diferentes cargas no mesmo mapa.
-5- Capacidade de buscar por uma carga específica e só ela ser exibida no mapa, com uma espécie de... filtro.
-6- Quanto mais bonita sua interface mais satisfeito o cliente.
+1- Preciso conseguir inserir o nome de um país onde está minha encomenda em um campo.<br>
+2- O país que eu inseri seja marcado em um mapa.<br>
+3- Conseguir inserir múltiplas cargas.<br>
+4- Conseguir marcar a posição de diferentes cargas no mesmo mapa.<br>
+5- Capacidade de buscar por uma carga específica e só ela ser exibida no mapa, com uma espécie de... filtro.<br>
+6- Quanto mais bonita sua interface mais satisfeito o cliente.<br>
 
 ## O que foi feito
 
